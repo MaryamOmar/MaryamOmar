@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Maryam, a jack of all trades trying to be a master of one. 
+I'm Maryam, A new and aspiring artificial intelligence engineer.
 
 - 🌱 I’m currently learning data science.
 - :woman_technologist: I'm working on: an object detection model to detect caries in dental bitewings.
