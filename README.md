@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-This is Maryam:
+I'm Maryam, A new and aspiring artificial intelligence engineer.
 
 - 🌱 I’m currently learning data science.
 - :woman_technologist: I'm working on: an object detection model to detect caries in dental bitewings.
